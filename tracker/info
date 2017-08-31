@@ -1,0 +1,7 @@
+tracker/torrent project
+OOP,JSON,MVC(Model View Controller,Router)
+
+browser<----->site(index.php)
+index.php ---> front/router controller
+app       ---> php files (read,execute)
+public    ---> image,css,js (read,execute,write)

@@ -1,0 +1,18 @@
+.t-Serial{
+  background-image: url("http://icons.iconarchive.com/icons/dailyoverview/tv/32/television-05-icon.png");
+  background-repeat: no-repeat;
+}
+.t-Film{
+  background-image: url("http://icons.iconarchive.com/icons/chromatix/aerial/32/movie-icon.png");
+  background-repeat: no-repeat;
+}
+.t-User{
+  background-image: url("http://icons.iconarchive.com/icons/icons-land/vista-people/48/Office-Customer-Male-Light-icon.png");
+  background-repeat: no-repeat;
+}
+img{
+width: 100%;
+}
+.uppercase{
+  text-transform: uppercase;
+}

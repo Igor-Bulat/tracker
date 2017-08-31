@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twig/twig": "~1.0",
+        "ramsey/uuid": "^3.5",
+        "gregwar/captcha": "^1.1",
+        "crossjoin/css": "^1.0",
+        "gregwar/image": "^2.0"
+    }
+}
